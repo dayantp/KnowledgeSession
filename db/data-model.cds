@@ -4,5 +4,5 @@ entity Books {
   key ID : Integer;
   title  : String;
   stock  : Integer;
-  price  : Double;
+  price  : Double
 }
